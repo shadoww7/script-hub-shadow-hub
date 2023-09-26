@@ -1,0 +1,9 @@
+if game.PlaceId == 9285238704 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rhuanbed77/shadow-hub-paid/main/race%20clicker", true))()
+elseif game.PlaceId == 11445923563 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rhuanbed77/shadow-hub-paid/main/one%20fruit%20shadow%20hub", true))()
+elseif game.PlaceId == 142823291 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rhuanbed77/shadow-hub-paid/main/shadow%20hub%20mm2", true))()
+elseif game.PlaceId == 13772394625 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rhuanbed77/shadow-hub-paid/main/script", true))()
+end 
