@@ -6,4 +6,6 @@ elseif game.PlaceId == 142823291 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rhuanbed77/shadow-hub-paid/main/shadow%20hub%20mm2", true))()
 elseif game.PlaceId == 13772394625 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rhuanbed77/shadow-hub-paid/main/script", true))()
-end 
+elseif game.PlaceId == 6516141723 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rhuanbed77/shadow-hub-paid/main/doors%20shadow%20hub", true))()
+end
