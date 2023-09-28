@@ -8,4 +8,6 @@ elseif game.PlaceId == 13772394625 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rhuanbed77/shadow-hub-paid/main/script", true))()
 elseif game.PlaceId == 6516141723 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/rhuanbed77/shadow-hub-paid/main/doors%20shadow%20hub", true))()
+elseif game.PlaceId == 14236123211 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rhuanbed77/shadow-hub-paid/main/Punch%20simulator%20shadow%20hub", true))()
 end
